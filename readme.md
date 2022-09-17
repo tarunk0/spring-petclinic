@@ -28,7 +28,7 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 > NOTE: If you prefer to use Gradle, you can build the app using `./gradlew build` and look for the jar file in `build/libs`.
 
-## Building a Container
+## Building a Container:
 
 You can build a container image (if you have a docker daemon) either using the Spring Boot build plugin or Dockerfile in this repository:
 
