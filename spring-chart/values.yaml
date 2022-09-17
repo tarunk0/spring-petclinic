@@ -8,7 +8,7 @@ image:
   repository: tarunk0/spring-webapp-pet
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "<TAG>"
+  tag: "latest"
 
 imagePullSecrets: []
 nameOverride: ""
