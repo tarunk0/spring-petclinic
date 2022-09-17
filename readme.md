@@ -30,7 +30,7 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 ## Building a Container
 
-You can build a container image (if you have a docker daemon) either using the Spring Boot build plugin or Dockerfile in this repository
+You can build a container image (if you have a docker daemon) either using the Spring Boot build plugin or Dockerfile in this repository:
 
 ```
 ./mvnw spring-boot:build-image
